@@ -11,8 +11,7 @@ namespace AOC
 {
     class Program
     {
-        public static object Matrix { get; private set; }
-
+        //https://www.reddit.com/r/adventofcode/
         static void Main(string[] args)
         {
             Day7.day7init();
