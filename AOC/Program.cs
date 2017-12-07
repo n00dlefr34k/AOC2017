@@ -15,7 +15,7 @@ namespace AOC
 
         static void Main(string[] args)
         {
-            Day6.day6Init();
+            Day7.day7init();
             Console.Read();
         }
            
