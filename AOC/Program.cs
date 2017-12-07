@@ -1,5 +1,8 @@
-﻿using System;
+﻿using AutoTaskCostReport.DAL;
+using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -12,7 +15,7 @@ namespace AOC
 
         static void Main(string[] args)
         {
-            Day5.getInts3();
+            Day6.day6Init();
             Console.Read();
         }
            
