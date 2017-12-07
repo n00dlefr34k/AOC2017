@@ -8,6 +8,6 @@ qoyq (66)
 padx (45) -> pbga, havc, qoyq
 tknk (41) -> ugml, padx, fwft
 jptl (61)
-ugml (68) -> gyxo, ebii, jptl
+ugml (60) -> gyxo, ebii, jptl
 gyxo (61)
 cntj (57)

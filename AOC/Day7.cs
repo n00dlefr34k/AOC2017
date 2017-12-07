@@ -25,6 +25,8 @@ namespace AOC
                double x = 0;
                 summs.Add(AddTheWeights(nodeTree,child, x, count));
             }
+
+            
             
            // File.AppendAllText("json.json", JsonConvert.SerializeObject(nodeTree));
             Console.WriteLine(JsonConvert.SerializeObject(rootNode));
