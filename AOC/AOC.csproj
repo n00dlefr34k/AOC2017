@@ -60,8 +60,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseFactory.cs" />
+    <Content Include="datasets\Day8.txt" />
+    <Content Include="datasets\Day8e.txt" />
     <Content Include="datasets\Day7.txt" />
-    <Content Include="datasets\day7e.txt">
+    <Content Include="datasets\Day7e.txt">
       <SubType>Form</SubType>
     </Content>
     <Compile Include="Day1.cs" />
@@ -71,6 +73,7 @@
     <Compile Include="Day5.cs" />
     <Compile Include="Day6.cs" />
     <Compile Include="Day7.cs" />
+    <Compile Include="Day8.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -81,8 +84,8 @@
   <ItemGroup>
     <Content Include="datasets\Day4.txt" />
     <Content Include="datasets\Day40.txt" />
-    <Content Include="datasets\day5.txt" />
-    <Content Include="datasets\day5e.txt" />
+    <Content Include="datasets\Day5.txt" />
+    <Content Include="datasets\Day5e.txt" />
     <Content Include="day6Results.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

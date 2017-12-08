@@ -14,7 +14,9 @@ namespace AOC
         //https://www.reddit.com/r/adventofcode/
         static void Main(string[] args)
         {
-            Day7.day7init();
+           
+
+            Day8.day8init();
             Console.Read();
         }
            
